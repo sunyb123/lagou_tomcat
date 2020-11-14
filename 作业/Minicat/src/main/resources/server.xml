@@ -1,0 +1,10 @@
+<Server>
+    <Service name="Mojave">
+        <Connector port="8080"/>
+        <Engine defaultHost="localhost">
+            <!-- appBase 就是指定的文件夹 -->
+<!--            <Host name="localhost" appBase="D:\data\download\lagou\Web服务器\Tomcat\代码\Minicat\webApps"/>-->
+            <Host name="localhost" appBase="/Users/webapps"/>
+        </Engine>
+    </Service>
+</Server>

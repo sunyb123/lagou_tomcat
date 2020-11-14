@@ -1,0 +1,4 @@
+http://localhost:8080/demo001/servlet1
+http://localhost:8080/demo001/servlet2
+http://localhost:8080/demo002/servlet1
+http://localhost:8080/demo002/servlet2
